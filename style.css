@@ -1,0 +1,27 @@
+body{
+    background-color: gray;
+}
+
+#header{
+    background-color: orange;
+}
+#menu{
+    background-color: lightpink;
+}
+#menu ul li{
+    display: inline-block;
+    list-style: none;
+    padding: 10px 20px 0px 20px;
+}
+a{
+    text-decoration: none;
+}
+#content{
+    background-color: white;
+}
+#aside{
+    background-color: aqua;
+}
+#footer{
+    background-color: gold;
+}
